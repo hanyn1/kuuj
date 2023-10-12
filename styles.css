@@ -1,0 +1,11 @@
+h2{
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 , p{
+    display: inline;
+    color: red;
+}
+.title{
+    color: chocolate;
+}
